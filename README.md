@@ -145,7 +145,7 @@ python-dotenv>=0.19.0
 ##  Autor
 
 Criado com 💻 e ☕ por **Adryan Silva**
-📫 Contato: [adryandasilvasantos1@gmail.com](mailto:adryandasilvasantos1@gmail.com)
+📫 Contato: 🔗 [linkedin.com/in/adryan-silva-santos](https://linkedin.com/in/adryan-silva-santos)
 🔗 Em breve: portfólio profissional
 
 ---
