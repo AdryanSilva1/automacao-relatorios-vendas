@@ -1,4 +1,3 @@
-````markdown
 # Sistema de Automação de Relatórios de Vendas em Python
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
@@ -22,24 +21,16 @@ Este sistema lê dados de vendas em CSV, gera análises inteligentes e envia rel
 ### ⚡ Instalação Rápida
 
 ```bash
-# 1. Crie a estrutura de pastas
-mkdir projeto_relatorios
-cd projeto_relatorios
-mkdir data
+# 1. Clone o repositório
+git clone https://github.com/AdryanSilva1/automacao-relatorios-vendas.git
+cd automacao-relatorios-vendas
 
-# 2. Crie os arquivos do projeto (copie os códigos abaixo)
-# - main.py
-# - report_utils.py  
-# - email_utils.py
-# - requirements.txt
-# - data/vendas.csv
+# 2. Instale as dependências
+pip install -r requirements.txt
 
-# 3. Instale as dependências
-pip install pandas python-dotenv
-
-# 4. Execute o sistema
+# 3. Execute o sistema
 python main.py
-````
+```
 
 ---
 
@@ -102,7 +93,7 @@ ESTATÍSTICAS:
 ## Estrutura do Projeto
 
 ```
-projeto_relatorios/
+automacao-relatorios-vendas/
 ├── data/
 │   └── vendas.csv          # Dados de vendas
 ├── main.py                 # Script principal
@@ -151,5 +142,3 @@ Criado com 💻 e ☕ por **Adryan Silva**
 ---
 
 **Se este projeto te ajudou, deixe uma estrela no repositório!**
-
-``````
